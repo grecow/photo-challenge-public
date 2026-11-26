@@ -1,0 +1,1 @@
+ALTER TABLE `rooms` ADD `admin_key_hash` text;

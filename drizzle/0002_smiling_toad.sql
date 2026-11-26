@@ -1,0 +1,1 @@
+ALTER TABLE `rooms` ADD `vote_candidate_index` integer DEFAULT 0 NOT NULL;
